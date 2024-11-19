@@ -59,7 +59,7 @@ I'm a Self-taught Programmer with a passion for creating games, exploring proced
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=satzch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=satzch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=satzch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satzch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
