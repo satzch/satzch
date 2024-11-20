@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h4 align="center">
-I'm a Self-taught Programmer with a passion for creating games, exploring procedural generation, and diving deep into computer graphics. A recent computer science graduate, I’m always learning and experimenting to expand my skills in game development and web development.
+I'm a recent computer science graduate with a passion for creating games, exploring procedural generation, and diving deep into computer graphics. I’m always learning and experimenting to expand my skills in game development and web development.
 </h4>
 
 <br>
