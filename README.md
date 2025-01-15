@@ -112,14 +112,6 @@ I'm a recent computer science graduate with a passion for creating games, explor
 
 <br/>
 
----
 
-### ✍️ Random Quote
-
-<div align="center>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)" align="center" />
-
-</div>
 
 
